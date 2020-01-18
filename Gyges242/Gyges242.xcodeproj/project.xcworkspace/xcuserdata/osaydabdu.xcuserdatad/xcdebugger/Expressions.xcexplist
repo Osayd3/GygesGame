@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "Move.(generate_middle_steps in _1BCA47360FB3B49A780ACE07C2E33EAC)(Int, y_direction : Int, current_x : Int, current_y : Int, cur_path : inout [Position], steps : inout [[Position]]) -&gt; ():Move.swift">
+      </ContextState>
+      <ContextState
+         contextName = "Move.(generate_middle_steps in _1BCA47360FB3B49A780ACE07C2E33EAC)(Position, current_path : inout [Position], steps : inout [[Position]], remaining_steps : Int) -&gt; ():Move.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Move.get_all_middle_steps() -&gt; [[Position]]:Move.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

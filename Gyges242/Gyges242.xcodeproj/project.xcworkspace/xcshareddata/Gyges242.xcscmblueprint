@@ -1,0 +1,35 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "f1011371-78be-46d3-aba7-cd4af10d11f4++7765+++A6ACDEA",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "f1011371-78be-46d3-aba7-cd4af10d11f4++7765+++A6ACDEA" : {
+
+    },
+    "f1011371-78be-46d3-aba7-cd4af10d11f4++7571+++4F58DAC" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "f1011371-78be-46d3-aba7-cd4af10d11f4++7765+++A6ACDEA" : 0,
+    "f1011371-78be-46d3-aba7-cd4af10d11f4++7571+++4F58DAC" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2CFA17C9-4426-4058-9754-81B25D4E1D33",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "f1011371-78be-46d3-aba7-cd4af10d11f4++7765+++A6ACDEA" : "..",
+    "f1011371-78be-46d3-aba7-cd4af10d11f4++7571+++4F58DAC" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Gyges242",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Gyges242.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/subversion.ews.illinois.edu\/svn\/sp16-cs242",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "f1011371-78be-46d3-aba7-cd4af10d11f4++7571+++4F58DAC"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/subversion.ews.illinois.edu\/svn\/sp16-cs242",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "f1011371-78be-46d3-aba7-cd4af10d11f4++7765+++A6ACDEA"
+    }
+  ]
+}

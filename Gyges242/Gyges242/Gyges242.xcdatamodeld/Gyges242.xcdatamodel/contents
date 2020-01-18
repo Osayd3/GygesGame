@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="10171" systemVersion="15E65" minimumToolsVersion="Automatic">
+    <entity name="BoardConfiguration" syncable="YES">
+        <attribute name="column" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="row" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="steps" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+    </entity>
+    <entity name="Settings" syncable="YES">
+        <attribute name="blue_AI" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="blue_first" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="single_player" optional="YES" attributeType="Boolean" syncable="YES"/>
+    </entity>
+    <entity name="Turn" syncable="YES">
+        <attribute name="red_turn" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="single_player_mode" optional="YES" attributeType="Boolean" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="BoardConfiguration" positionX="115" positionY="-36" width="128" height="90"/>
+        <element name="Turn" positionX="-54" positionY="9" width="128" height="75"/>
+        <element name="Settings" positionX="27" positionY="-9" width="128" height="90"/>
+    </elements>
+</model>
